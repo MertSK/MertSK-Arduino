@@ -1,0 +1,12 @@
+Arduino UNO 1x
+BreadBoard 1x
+5mm LED 5x
+330ohm direnç 10x
+1kohm direnç 10x
+10kohm direnç 10x
+Buton 2x
+Potansiyometre 3x
+RGB Led 1x
+HC-SR04 Mesafe Sensörü 1x
+LM35 Sıcaklık Sensörü 1x
+Servo Motor 1x
